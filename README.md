@@ -1,2 +1,5 @@
 # TimesTable
-Times table calc using C#
+
+
+
+# Its a simple times table using C#
